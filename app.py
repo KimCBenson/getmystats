@@ -11,7 +11,7 @@ app.secret_key = 'my_secret_key'
 
 # spotify client info
 spotify_client_id = '12e6f309d1ff49a7b4e3e6299fb7d7f3'
-spotify_client_secret = '60ba3bea49e342b0b77545e0c518da1b'
+spotify_client_secret = 'SECRET GOES HERE'
 spotify_redirect_uri = 'http://localhost:5000/callback'
 
 # index/home page
